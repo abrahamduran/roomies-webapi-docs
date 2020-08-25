@@ -2,10 +2,17 @@
 
 This is where it all begins...
 
-You can write anything in here.
+The Roomies RESTful API is here! The idea behind this API is to help us manage our financial
+headaches in a more automated way. This WebAPI will:
 
-- Maybe a quick introduction of the minimal setup you need to get a hello world up & running.
-- Maybe what is needed to set up the dev environment.
-- Maybe a contributing guide.
+- Manage **expenses**
+- Manage **payments**
+- Aid in the **distribution** of expenses
+- Let you quickly see your **balance**
+- Keep **track** of the expenses and payments, where's the money going?
 
+Some ideas for the future are:
 
+- Support login/signup
+- Notify members when an expense in registered for them
+- Notify members when a payment has been made to them
