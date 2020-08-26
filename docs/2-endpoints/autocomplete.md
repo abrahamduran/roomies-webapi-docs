@@ -1,6 +1,6 @@
 <Block>
 
-# Autocomple
+# Autocomplete
 
 </Block>
 
