@@ -259,7 +259,7 @@ Status: 200
 <CURL>
 
 ```bash
-curl -X GET https://dev.roomies.do/api/roommates/{roommateId}/payments/{expenseId}
+curl -X GET https://dev.roomies.do/api/roommates/{roommateId}/expenses/{expenseId}
 ```
 
 > It will return 404 if the roommate cannot be located.
