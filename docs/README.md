@@ -9,6 +9,15 @@ footer: Open Source on [GitHub](https://github.com/abrahamduran/roomies), Made b
 
 ## Changelog
 
+### v1.1 (2020-08-31)
+
+- Added new endpoints:
+  - /api/roommates/{id}/expenses
+  - /api/roommates/{id}/expenses/{id}
+  - /api/roommates/{id}/payments
+- Fix validation of duplicate identifiers for roommates
+- Fix typos in the documentation
+
 ### v1.0 (2020-08-25)
 
 - Added documentation
