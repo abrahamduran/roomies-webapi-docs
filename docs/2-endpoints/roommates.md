@@ -6,7 +6,7 @@
 
 <Block>
 
-## Create
+## Create Roommate
 
 You can use this API to create a new roommate in the app.
 
@@ -60,7 +60,7 @@ curl -X POST https://dev.roomies.do/api/roommates \
 
 <Block>
 
-## Get List
+## List Roommates
 
 You can use this API to list all the roommates registered in the app.
 
@@ -102,7 +102,7 @@ curl -X GET https://dev.roomies.do/api/roommates
 
 <Block>
 
-## Get Single
+## Get Roommate
 
 You can use this API to get a roommate's information.
 

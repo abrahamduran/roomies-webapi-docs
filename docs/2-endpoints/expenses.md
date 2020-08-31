@@ -285,7 +285,7 @@ Status: 200
     },
     "status": "unpaid",
     "date": "2020-08-26",
-    "total": 1800,
+    "total": 900,
     "description": "A descriptive text",
     "distribution": "even",
     "payers": [
@@ -331,7 +331,7 @@ GET /api/expenses/{id}
 
 |   Name   |  Type  | Description |      Required      |
 | :------: | :----: | :---------: | :----------------: |
-|    id    | string |  Expenses's identifier   | :heavy_check_mark: |
+|    id    | string |  Expense's identifier   | :heavy_check_mark: |
 
 ### Response
 
@@ -393,7 +393,7 @@ GET /api/expenses/{id}/items
 
 |   Name   |  Type  | Description |      Required      |
 | :------: | :----: | :---------: | :----------------: |
-|    id    | string |  Expenses's identifier   | :heavy_check_mark: |
+|    id    | string |  Expense's identifier   | :heavy_check_mark: |
 
 ### Response
 
@@ -448,7 +448,7 @@ GET /api/expenses/{expenseId}/items/{itemId}
 
 |   Name   |  Type  | Description |      Required      |
 | :------: | :----: | :---------: | :----------------: |
-| expenseId | string |  Expenses's identifier   | :heavy_check_mark: |
+| expenseId | string |  Expense's identifier   | :heavy_check_mark: |
 | itemId | integer |  Item's identifier   | :heavy_check_mark: |
 
 ### Response

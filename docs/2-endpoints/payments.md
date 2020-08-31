@@ -6,7 +6,7 @@
 
 <Block>
 
-## Create
+## Register
 
 You can use this API to register a new payment in the app.
 
@@ -147,7 +147,7 @@ GET /api/payments/{id}
 
 |   Name   |  Type  | Description |      Required      |
 | :------: | :----: | :---------: | :----------------: |
-|    id    | string |  Payments's identifier   | :heavy_check_mark: |
+|    id    | string |  Payment's identifier   | :heavy_check_mark: |
 
 ### Response
 
